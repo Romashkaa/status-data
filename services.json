@@ -3,11 +3,6 @@
   "stale": false,
   "services": [
     {
-      "name": "Mafinity",
-      "status": "available",
-      "url": ""
-    },
-    {
       "name": "Spin Up",
       "status": "available",
       "url": "https://t.me/SpinUpTheBot"
@@ -28,6 +23,11 @@
       "url": ""
     },
     {
+      "name": "Mafinity",
+      "status": "unavailable",
+      "url": ""
+    },
+    {
       "name": "Playzy",
       "status": "unavailable",
       "url": ""
@@ -43,5 +43,5 @@
       "url": ""
     }
   ],
-  "changed_at": 1794428391
+  "changed_at": 1794435323
 }
