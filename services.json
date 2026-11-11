@@ -1,19 +1,34 @@
 {
-  "supervisor": "stopped",
-  "stale": true,
+  "supervisor": "running",
+  "stale": false,
   "services": [
     {
-      "name": "AlertsAPI",
+      "name": "Mafinity",
+      "status": "available",
+      "url": ""
+    },
+    {
+      "name": "Spin Up",
+      "status": "available",
+      "url": "https://t.me/SpinUpTheBot"
+    },
+    {
+      "name": "Svetlana Systems",
+      "status": "available",
+      "url": ""
+    },
+    {
+      "name": "Alerts API",
       "status": "unavailable",
       "url": ""
     },
     {
-      "name": "ScheduleZTU",
+      "name": "Chamomile",
       "status": "unavailable",
       "url": ""
     },
     {
-      "name": "SpinUp",
+      "name": "Playzy",
       "status": "unavailable",
       "url": ""
     },
@@ -21,7 +36,12 @@
       "name": "Teleglos",
       "status": "unavailable",
       "url": ""
+    },
+    {
+      "name": "Track Your Happiness",
+      "status": "unavailable",
+      "url": ""
     }
   ],
-  "changed_at": 1794427160
+  "changed_at": 1794427657
 }
