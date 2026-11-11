@@ -1,0 +1,27 @@
+{
+  "supervisor": "stopped",
+  "stale": true,
+  "services": [
+    {
+      "name": "AlertsAPI",
+      "status": "unavailable",
+      "url": ""
+    },
+    {
+      "name": "ScheduleZTU",
+      "status": "unavailable",
+      "url": ""
+    },
+    {
+      "name": "SpinUp",
+      "status": "unavailable",
+      "url": ""
+    },
+    {
+      "name": "Teleglos",
+      "status": "unavailable",
+      "url": ""
+    }
+  ],
+  "changed_at": 1794427160
+}
