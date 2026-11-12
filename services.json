@@ -8,11 +8,6 @@
       "url": ""
     },
     {
-      "name": "Mafinity",
-      "status": "available",
-      "url": ""
-    },
-    {
       "name": "Spin Up",
       "status": "available",
       "url": "https://t.me/SpinUpTheBot"
@@ -24,6 +19,11 @@
     },
     {
       "name": "Chamomile",
+      "status": "unavailable",
+      "url": ""
+    },
+    {
+      "name": "Mafinity",
       "status": "unavailable",
       "url": ""
     },
@@ -43,5 +43,5 @@
       "url": ""
     }
   ],
-  "changed_at": 1794523167
+  "changed_at": 1794523996
 }
