@@ -1,7 +1,22 @@
 {
-  "supervisor": "stopping",
+  "supervisor": "running",
   "stale": false,
   "services": [
+    {
+      "name": "Mafinity",
+      "status": "available",
+      "url": ""
+    },
+    {
+      "name": "Spin Up",
+      "status": "available",
+      "url": "https://t.me/SpinUpTheBot"
+    },
+    {
+      "name": "Svetlana Systems",
+      "status": "available",
+      "url": ""
+    },
     {
       "name": "Alerts API",
       "status": "unavailable",
@@ -13,22 +28,7 @@
       "url": ""
     },
     {
-      "name": "Mafinity",
-      "status": "unavailable",
-      "url": ""
-    },
-    {
       "name": "Playzy",
-      "status": "unavailable",
-      "url": ""
-    },
-    {
-      "name": "Spin Up",
-      "status": "unavailable",
-      "url": ""
-    },
-    {
-      "name": "Svetlana Systems",
       "status": "unavailable",
       "url": ""
     },
@@ -43,5 +43,5 @@
       "url": ""
     }
   ],
-  "changed_at": 1794442850
+  "changed_at": 1794443043
 }
