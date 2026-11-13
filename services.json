@@ -13,17 +13,17 @@
       "url": ""
     },
     {
+      "name": "Spin Up",
+      "status": "available",
+      "url": "https://t.me/SpinUpTheBot"
+    },
+    {
       "name": "Svetlana Systems",
       "status": "available",
       "url": ""
     },
     {
       "name": "Teleglos",
-      "status": "available",
-      "url": "https://t.me/teleglos"
-    },
-    {
-      "name": "Spin Up",
       "status": "updating",
       "url": ""
     },
@@ -43,5 +43,5 @@
       "url": ""
     }
   ],
-  "changed_at": 1794602633
+  "changed_at": 1794602639
 }
