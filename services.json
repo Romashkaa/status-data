@@ -24,8 +24,8 @@
     },
     {
       "name": "Teleglos",
-      "status": "available",
-      "url": "https://t.me/teleglos"
+      "status": "updating",
+      "url": ""
     },
     {
       "name": "Chamomile",
@@ -43,5 +43,5 @@
       "url": ""
     }
   ],
-  "changed_at": 1794589678
+  "changed_at": 1794598282
 }
