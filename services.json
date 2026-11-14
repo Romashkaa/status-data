@@ -8,6 +8,11 @@
       "url": ""
     },
     {
+      "name": "Mafinity",
+      "status": "available",
+      "url": ""
+    },
+    {
       "name": "Spin Up",
       "status": "available",
       "url": "https://t.me/SpinUpTheBot"
@@ -15,11 +20,6 @@
     {
       "name": "Svetlana Systems",
       "status": "available",
-      "url": ""
-    },
-    {
-      "name": "Mafinity",
-      "status": "updating",
       "url": ""
     },
     {
@@ -43,5 +43,5 @@
       "url": ""
     }
   ],
-  "changed_at": 1794618724
+  "changed_at": 1794618727
 }
