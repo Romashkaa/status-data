@@ -13,11 +13,6 @@
       "url": "https://t.me/SpinUpTheBot"
     },
     {
-      "name": "Svetlana Systems",
-      "status": "available",
-      "url": ""
-    },
-    {
       "name": "Chamomile",
       "status": "unavailable",
       "url": ""
@@ -33,6 +28,11 @@
       "url": ""
     },
     {
+      "name": "Svetlana Systems",
+      "status": "unavailable",
+      "url": ""
+    },
+    {
       "name": "Teleglos",
       "status": "unavailable",
       "url": ""
@@ -43,5 +43,5 @@
       "url": ""
     }
   ],
-  "changed_at": 1794907617
+  "changed_at": 1794907647
 }
