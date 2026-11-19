@@ -1,10 +1,20 @@
 {
-  "supervisor": "stopping",
+  "supervisor": "running",
   "stale": false,
   "services": [
     {
       "name": "Alerts API",
-      "status": "unavailable",
+      "status": "available",
+      "url": ""
+    },
+    {
+      "name": "Spin Up",
+      "status": "available",
+      "url": "https://t.me/SpinUpTheBot"
+    },
+    {
+      "name": "Svetlana Systems",
+      "status": "available",
       "url": ""
     },
     {
@@ -23,16 +33,6 @@
       "url": ""
     },
     {
-      "name": "Spin Up",
-      "status": "unavailable",
-      "url": ""
-    },
-    {
-      "name": "Svetlana Systems",
-      "status": "unavailable",
-      "url": ""
-    },
-    {
       "name": "Teleglos",
       "status": "unavailable",
       "url": ""
@@ -43,5 +43,5 @@
       "url": ""
     }
   ],
-  "changed_at": 1795130140
+  "changed_at": 1795130257
 }
