@@ -3,11 +3,6 @@
   "stale": false,
   "services": [
     {
-      "name": "Alerts API",
-      "status": "available",
-      "url": ""
-    },
-    {
       "name": "Spin Up",
       "status": "available",
       "url": "https://t.me/SpinUpTheBot"
@@ -21,6 +16,11 @@
       "name": "Teleglos",
       "status": "available",
       "url": "https://t.me/teleglos"
+    },
+    {
+      "name": "Alerts API",
+      "status": "unavailable",
+      "url": ""
     },
     {
       "name": "Chamomile",
@@ -43,5 +43,5 @@
       "url": ""
     }
   ],
-  "changed_at": 1795195863
+  "changed_at": 1795195938
 }
